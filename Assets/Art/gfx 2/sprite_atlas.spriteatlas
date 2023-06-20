@@ -73,6 +73,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 98e03bc4f26fa3148b9d28feb11f9abc, type: 3}
   - {fileID: 21300000, guid: b887b1352fe75664eb60a6260ae07c5b, type: 3}
   - {fileID: 21300000, guid: a34312469092b494bb0df5dd3120f33c, type: 3}
+  - {fileID: 21300000, guid: 2aeacc66507c5df4d883054d7e6914f0, type: 3}
   - {fileID: 21300000, guid: 427953b83fbc3c446b9095fa92de0189, type: 3}
   - {fileID: 21300000, guid: 56d3e4f84a854cb4790cef3329cf6b45, type: 3}
   - {fileID: 21301654, guid: 275c0a091801c4f3cbf7d43ef7702e68, type: 3}
@@ -1424,6 +1425,7 @@ SpriteAtlas:
   - BickerBug
   - Candy
   - Candy Tree
+  - chest
   - Fizzy Rocket
   - Gun
   - Overworld_827
