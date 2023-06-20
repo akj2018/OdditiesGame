@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 8339917245101517720}
   - component: {fileID: 4762343274582157896}
   - component: {fileID: 8241737453788028851}
+  - component: {fileID: -8473350958903111634}
   m_Layer: 0
   m_Name: Empty bottle
   m_TagString: Collectable
@@ -111,3 +112,17 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 5.76, y: 5.76}
   m_EdgeRadius: 0
+--- !u!114 &-8473350958903111634
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5837845671365038514}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0dd7d3b2114de75499d53f56ef92ae95, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moveSpeed: 6
+  item: {fileID: 11400000, guid: 28254e2b1a634764a93d9012facf3a96, type: 2}
